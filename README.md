@@ -4,7 +4,7 @@
 
 ## Se realizaron los calculos pertinentes usando python, para detectar las fallas presentes en pozos Reales, obteniendo los puntos de apertura y cierre de las valvulas, y clasificando la carta dinagrafica al poligono segun el tipo de falla.
 ![](https://github.com/dominapython/Desarrollo-de-un-Sistema-de-Detecci-n-de-Fallas-en-Pozos-por-Balanc-n-Basado-en-Patrones-Operacional/blob/main/2021-09-09%2016-26-53.gif)
-
+![](https://github.com/dominapython/Desarrollo-de-un-Sistema-de-Detecci-n-de-Fallas-en-Pozos-por-Balanc-n-Basado-en-Patrones-Operacional/blob/main/2021-09-09%2016-27-18.gif)
 ## Palabras Clave:
 -Codigos de Cadena 8N
 -Python, Numpy, Matplolib, Pandas.
