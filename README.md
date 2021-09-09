@@ -7,4 +7,4 @@
 ![](https://github.com/dominapython/Desarrollo-de-un-Sistema-de-Detecci-n-de-Fallas-en-Pozos-por-Balanc-n-Basado-en-Patrones-Operacional/blob/main/2021-09-09%2016-27-18.gif)
 ## Palabras Clave:
 -Codigos de Cadena 4N
--Python, Numpy, Matplolib, Pandas.
+-Python, Numpy, Matplolib.
