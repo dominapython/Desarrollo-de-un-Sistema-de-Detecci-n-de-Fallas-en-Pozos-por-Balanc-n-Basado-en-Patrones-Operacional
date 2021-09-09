@@ -1,2 +1,2 @@
-# Desarrollo-de-un-Sistema-de-Detecci-n-de-Fallas-en-Pozos-por-Balanc-n-Basado-en-Patrones-Operacional
+# Desarrollo de un Sistema de Deteccion de Fallas en Pozos por Balancin Basado en Patrones Operacionales
 Python
